@@ -120,6 +120,16 @@ object Ferry {
 </div>
 
 
+### 🐍 Grafik Kontribusi
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
+    <img alt="Animasi ular memakan grafik kontribusi" src="./assets/github-snake.svg" />
+  </picture>
+</div>
+
 ---
 
 ## 📫 Hubungi Saya
