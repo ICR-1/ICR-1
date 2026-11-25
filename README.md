@@ -119,15 +119,6 @@ object Ferry {
 
 </div>
 
-### 🐍 Grafik Kontribusi
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ICR-1/icr-1/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ICR-1/icr-1/output/github-snake.svg" />
-    <img alt="Animasi ular di grafik kontribusi" src="https://raw.githubusercontent.com/ICR-1/icr-1/output/github-snake.svg" />
-  </picture>
-</div>
 
 ---
 
