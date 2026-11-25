@@ -46,7 +46,7 @@ object Ferry {
 
 ### Frontend & Mobile
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,flutter,androidstudio,vite&perline=7" alt="Frontend dan mobile" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,androidstudio,vite&perline=6" alt="Frontend dan mobile" />
 
 ### Backend & Database
 
@@ -54,7 +54,7 @@ object Ferry {
 
 ### Tools & DevOps
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma,postman,bun&perline=8" alt="Tools dan DevOps" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,archlinux,vscode,figma,bun&perline=7" alt="Tools dan DevOps" />
 
 </div>
 
