@@ -54,7 +54,7 @@ object Ferry {
 
 ### Tools & DevOps
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,archlinux,vscode,figma,bun&perline=7" alt="Tools dan DevOps" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,arch,vscode,figma,bun&perline=7" alt="Tools dan DevOps" />
 
 </div>
 
@@ -112,7 +112,7 @@ object Ferry {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ICR-1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Statistik GitHub" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ICR-1&show_icons=true&theme=tokyonight&hide_border=true" alt="Statistik GitHub" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ICR-1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Bahasa teratas" />
 
 <img src="https://streak-stats.demolab.com?user=ICR-1&theme=tokyonight&hide_border=true" alt="Streak GitHub" />
