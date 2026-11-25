@@ -129,7 +129,7 @@ object Ferry {
 <a href="https://aufer.my.id"><img src="https://img.shields.io/badge/Portofolio-0f172a?style=for-the-badge&logo=googlechrome&logoColor=22d3ee" alt="Portofolio" /></a>
 <a href="https://github.com/ICR-1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
-<sub>Punya ide proyek atau ingin kolaborasi? Buka <a href="https://github.com/ICR-1/icr-1/issues">issue</a> atau kunjungi situs saya.</sub>
+<sub>Punya ide proyek atau ingin kolaborasi? Buka <a href="https://github.com/ICR-1/ICR-1/issues">issue</a> atau kunjungi situs saya.</sub>
 
 </div>
 
